@@ -25,9 +25,9 @@ public class Morpion  extends Application {
 
     public final static class Tuile extends Button {
 
-        private final int row;
-        private final int col;
-        private Symbole mark;
+        public final int row;
+        public final int col;
+        public Symbole mark;
 
         public Tuile(int initRow, int initCol, Symbole initMark)
         {

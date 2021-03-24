@@ -1,10 +1,6 @@
 package ai;
 
-import javafx.scene.Scene;
 import morpion.Plateau;
-import morpion.Symbole;
-
-import javax.swing.plaf.synth.SynthLabelUI;
 
 import static morpion.Symbole.*;
 
